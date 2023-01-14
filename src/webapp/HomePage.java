@@ -9,4 +9,8 @@ public class HomePage {
     //more things got the home psge
 
     //logo
+
+    //add more things
+
+    //footer
 }
